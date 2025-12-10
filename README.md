@@ -37,22 +37,12 @@ LinkedIn: https://linkedin.com/in/kunaldebroy
 
 <br/><br/>
 
-<!-- ROW 3 — 5 icons -->
-<img title="Snowflake" src="https://cdn.worldvectorlogo.com/logos/snowflake.svg" width="65"/>
-<img title="Databricks" src="https://cdn.worldvectorlogo.com/logos/databricks-logo-icon.svg" width="65"/>
-<img title="MongoDB (NoSQL)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
-<img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
-<img title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60"/>
-
-<br/><br/>
-
-<!-- ROW 4 — 6 icons -->
-<img title="PySpark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60"/>
-<img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
-<img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
-<img title="dbt" src="https://raw.githubusercontent.com/dbt-labs/dbt-branding/master/dbt-logo/dbt-logo.png" width="60"/>
-<img title="Macros / Automation" src="https://cdn-icons-png.flaticon.com/512/3524/3524659.png" width="55"/>
-<img title="Jina AI" src="https://raw.githubusercontent.com/jina-ai/.github/master/profile/jina-logo.svg" width="60"/>
+<!-- FIXED ROW 3 — 5 icons -->
+<img title="Snowflake" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Snowflake_Logo.svg" width="60"/>
+<img title="Databricks" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.svg" width="60"/>
+<img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
+<img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
+<img title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55"/>
 
 <br/><br/>
 
@@ -62,5 +52,16 @@ LinkedIn: https://linkedin.com/in/kunaldebroy
 <img title="Scikit-Learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60"/>
 <img title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60"/>
 <img title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
+
+<!-- FIXED ROW 4 — 6 icons -->
+<img title="PySpark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="55"/>
+<img title="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+<img title="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
+<img title="dbt" src="https://raw.githubusercontent.com/dbt-labs/dbt-branding/master/assets/dbt-logo-full.png" width="55"/>
+<img title="Jinja" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Jinja_software_logo.svg" width="55"/>
+<img title="Automation Macros" src="https://cdn-icons-png.flaticon.com/512/3524/3524659.png" width="50"/>
+<br/><br/>
+
+
 
 </div>
