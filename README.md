@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Kunal Deb Roy  
 
-<!--
-**kunaldebroy/kunaldebroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analytics & Engineering professional with experience building data pipelines, analytics models, and interactive Power BI dashboards. I enjoy turning messy datasets into meaningful insights and scalable systems.
 
-Here are some ideas to get you started:
+🔍 **What I do**  
+- Build and optimize ETL/ELT pipelines using SQL, Python, dbt & Databricks  
+- Create automated Power BI dashboards for business teams  
+- Work with cloud data stacks (Azure, Snowflake, Data Lakes)  
+- Develop forecasting and ML models  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning**  
+- Advanced dbt  
+- Airflow  
+- Cloud data engineering patterns  
+
+🛠️ **Tech I use**  
+Python • SQL • Power BI • dbt • Snowflake • Databricks • PySpark • Azure • MongoDB • DAX  
+
+📫 **Reach me at:**  
+**kunaldebroy1@gmail.com**  
+LinkedIn: https://linkedin.com/in/kunaldebroy  
+
+✨ Feel free to reach out if you want to talk data, dashboards, or ML!
