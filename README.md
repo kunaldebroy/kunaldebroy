@@ -39,7 +39,7 @@ LinkedIn: https://linkedin.com/in/kunaldebroy
 
 <!-- FIXED ROW 3 — 5 icons -->
 <img title="Snowflake" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Snowflake_Logo.svg" width="60"/>
-<img title="Databricks" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.svg" width="60"/>
+<img title="Databricks" src="https://brandfetch.com/databricks.comview=library&library=default&collection=logos&asset=idF4fnHpaJ&utm_source=https%253A%252F%252Fbrandfetch.com%252Fdatabricks.com&utm_medium=copyAction&utm_campaign=brandPageReferral" width="60"/>
 <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
 <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
 <img title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55"/>
@@ -52,6 +52,8 @@ LinkedIn: https://linkedin.com/in/kunaldebroy
 <img title="Scikit-Learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60"/>
 <img title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60"/>
 <img title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
+
+<br/><br/>
 
 <!-- FIXED ROW 4 — 6 icons -->
 <img title="PySpark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="55"/>
