@@ -38,7 +38,7 @@ LinkedIn: https://linkedin.com/in/kunaldebroy
 <br/><br/>
 
 <!-- FIXED ROW 3 — 5 icons -->
-<img title="Snowflake" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Snowflake_Logo.svg" width="60"/>
+<img title="Snowflake" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRny-RZulPZwP_RYiUakUo1z97bH_7xEy593g&s" width="60"/>
 <img title="Databricks" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/dbrx-color.png" width="60"/>
 <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/>
 <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"/>
