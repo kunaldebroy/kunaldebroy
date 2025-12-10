@@ -42,7 +42,7 @@ LinkedIn: https://linkedin.com/in/kunaldebroy
 
 ## 🚀 Data Engineering & Cloud
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Dbt-logo.svg" width="45" />
+<img src="https://raw.githubusercontent.com/dbt-labs/dbt-branding/master/dbt-logo/dbt-logo.svg" width="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="45" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" width="55" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="55" />
